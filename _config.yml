@@ -1,6 +1,6 @@
 title: 블로그
 author: GitHub User
-email: your-email@domain.com
+email: aaxx98@naver.com
 description: >
   This is a demo page for minima-reboot, a bootstrap-based rewrite of Jekyll's
   default minima theme. It is simple, lightweight, and responsive.
@@ -23,8 +23,8 @@ header_pages:
 - github.md
 
 footer_icons:
-- username: aterenin/minima-reboot/
-  url: https://github.com/aterenin/minima-reboot/
+- username: Semicolon-JangHyeJin
+  url: https://github.com/Semicolon-JangHyeJin
   icon: icon-github.svg
 
 paginate: 5
